@@ -23,6 +23,34 @@
 
 ---
 
+
+---
+
+## 📸 Capturas del Sistema
+
+<p align="center">
+  <b>🔑 Inicio de Sesión / Login</b><br>
+  <img src="Login_MenuExpress.png" alt="Login MenuExpress" width="800"/>
+</p>
+
+<br>
+
+<p align="center">
+  <b>📊 Dashboard / Panel Principal</b><br>
+  <img src="dashboard_Menu_express.png" alt="Dashboard MenuExpress" width="800"/>
+</p>
+
+<br>
+
+<p align="center">
+  <b>🍽️ Gestión de Mesas y Pedidos</b><br>
+  <img src="Gestion_Mesas_MenuExpress.png" alt="Gestión de Mesas MenuExpress" width="800"/>
+</p>
+
+---
+
+
+
 ## 🏗️ Arquitectura y Tecnologías
 
 El proyecto sigue una arquitectura por capas desacoplada (**Controller - Service - Repository - Model**):
